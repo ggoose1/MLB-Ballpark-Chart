@@ -1,1 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>MLB Ballpark Attendance by Year</h1>
+
+<h2> How the Houston Astros Went from Worst to First </h2>
+
 <iframe title="Top Ten MLB Ballpark Attendance by Year " aria-label="Interactive line chart" id="datawrapper-chart-Pq2C6" src="https://datawrapper.dwcdn.net/Pq2C6/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="523"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+
+<p>Ten years ago, the Houston Astros had one of the lowest attendance records in all major league baseball. In a small market, they couldn’t afford to bring in big talent free agents to attract fans. They were so bad they moved from the National League to the American League in some type of last-ditch effort to see if something would work. Now of course team’s attendance will have ebbs and flows depending on the quality of the on-field product. And when teams get good again, they spike up the ticket price and make it nearly impossible to go to the game on an affordable price.  What did they do? Even when they won the world series, they ensured that a family of four could attend games affordably. The future of baseball is anything but bright, but the rest of the league could take a note from a small market team with out of this world ideas. </p>
+
+
+
+
+<a href=” https://www.ballparksofbaseball.com/2010s-ballpark-attendance/”>Data from</a>
+</body>
+</html>
+
